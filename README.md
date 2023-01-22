@@ -27,6 +27,10 @@ It's no longer just a window.
  *      X-rotate - HOLD "U", up/down to increase/decrease
  *      Y-rotate - HOLD "I", up/down to increase/decrease
  *      Z-rotate - HOLD "O, up/down to increase/decrease
+ *
+ * Fun:
+ *      wew-mode - Press "P" to enter, press "L" to exit
+ *      speed up / slow down - Hold "P", press UP or DOWN
  */
 
 ```
